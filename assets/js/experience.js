@@ -5,39 +5,39 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Mechanical Engineer Intern",
     cardImage: "assets/images/experience-page/asml.jpg",
     place: "Flipkart",
     time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Designed mechanical fixtures using sheet metal design in NX12 in order to implement a heating stage in a Modular Vacuum chamber.</li> <li>Developed, performed calculations, and implemented a component-level test bench to test for adhesive delamination in the droplet generator.</li> <li> Prototyped and created sheet metal and plastic parts to integrate different electrical modules into test chambers and improve reliability testing.</li><li> Managed 4 different projects while collaborating with mechanical design and reliability engineers, vendors, and manufacturing </li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/amazon.png",
+    title: "Product Design Engineer Intern",
+    cardImage: "assets/images/experience-page/amazon.jpg",
     place: "Google Summer Of Code",
     time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Designed and prototyped a universal debug fixture for devices using CREO, incorporating pogo pins, PCBA, FPC flex cable, and springs</li> <li>  Created plastic and sheet metal parts to house electrical assemblies</li> <li> Collaborated with tooling/mold engineers and contract manufacturers to ensure proper molding of plastic parts and seamless UDF assembly</li><li>  Performed FEA contact analysis in CREO Simulate for removable snaps, optimizing cantilever length, lead in/out angle, and width of snaps </li><li> Conducted rapid 3-D prototyping to ensure feasibility, user-friendliness, and proper functionality of components </li> ",
   },
   {
-    title: "Research Intern",
+    title: "Relability Engineer Intern ",
     cardImage: "assets/images/experience-page/amazon.jpg",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>  Researched and addressed in-field issues, collaborated with failure analysis, thermal engineers, and technicians to develop innovative solutions </li><li> Designed, prototyped, and created drawings for a test rig, drawing inspiration from various literature - in CREO.</li><li> Developed component-level test and utilized HALT chamber for thermal aging to evaluate the thermal stability / leaching of different materials.</li><li> Revised product level validation test to match use case environment using Arrhenius model and customer data.</li><li>  Researched into different absorbent materials and glass/ceramics for test rig, ensuring test accuracy and performance.</li>",
   },
    {
-    title: "Research Intern",
+    title: "Mechanical Engineer Intern",
     cardImage: "assets/images/experience-page/siemens.png",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Conducted tolerance stack-up analysis (worst case) to ensure allowable misalignment of the belt drive in the Patient Handler System (PHS)</li> <li>  Assisted development engineers in building and testing the Patient Handler System through life cycle, thermal imaging, and acoustic tests.</li> ",
   },
    {
-    title: "Research Intern",
+    title: "Mechanical Design Engineer Intern",
     cardImage: "assets/images/experience-page/bosch-logo.png",
     place: "IIT, Bombay",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li> Developed a Python script and GUI to interface with Home Connect API Simulators, enabling settings adjustments for refrigerators </li> <li> Designed parts for refrigerator assemblies and drafted new refrigerator assemblies in NX 12 and Teamcenter PDM </li><li>   Designed different parts using principles of plastic part design in NX 12 and used 3-D printing to rapidly prototype parts </li><li>  Assisted quality engineers in developing a data analytical software program in Excel to reduce time sorting through failure symptom data and filter necessary information </li> ",
   },
 ];
 
