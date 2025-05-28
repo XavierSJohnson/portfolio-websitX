@@ -13,14 +13,14 @@ const exp = [
   },
   {
     title: "Product Design Engineer Intern",
-    cardImage: "assets/images/experience-page/amazon.jpg",
+    cardImage: "assets/images/experience-page/amazonn.jpg",
     place: "Amazon Lab 126",
     time: "(May 2023 - Aug, 2023)",
     desp: "<li>Designed and prototyped a universal debug fixture for devices using CREO, incorporating pogo pins, PCBA, FPC flex cable, and springs</li> <li>  Created plastic and sheet metal parts to house electrical assemblies</li> <li> Collaborated with tooling/mold engineers and contract manufacturers to ensure proper molding of plastic parts and seamless UDF assembly</li><li>  Performed FEA contact analysis in CREO Simulate for removable snaps, optimizing cantilever length, lead in/out angle, and width of snaps </li><li> Conducted rapid 3-D prototyping to ensure feasibility, user-friendliness, and proper functionality of components </li> ",
   },
   {
     title: "Relability Engineer Intern ",
-    cardImage: "assets/images/experience-page/amazon.jpg",
+    cardImage: "assets/images/experience-page/amazonn.jpg",
     place: "Amazon Lab 126",
     time: "(May, 2022 - May, 2022)",
     desp: "<li>  Researched and addressed in-field issues, collaborated with failure analysis, thermal engineers, and technicians to develop innovative solutions </li><li> Designed, prototyped, and created drawings for a test rig, drawing inspiration from various literature - in CREO.</li><li> Developed component-level test and utilized HALT chamber for thermal aging to evaluate the thermal stability / leaching of different materials.</li><li> Revised product level validation test to match use case environment using Arrhenius model and customer data.</li><li>  Researched into different absorbent materials and glass/ceramics for test rig, ensuring test accuracy and performance.</li>",
