@@ -39,7 +39,13 @@ const exp = [
     time: "(Aug, 2021 - Jan, 2021)",
     desp: "<li> Developed a Python script and GUI to interface with Home Connect API Simulators, enabling settings adjustments for refrigerators </li> <li> Designed parts for refrigerator assemblies and drafted new refrigerator assemblies in NX 12 and Teamcenter PDM </li><li>   Designed different parts using principles of plastic part design in NX 12 and used 3-D printing to rapidly prototype parts </li><li>  Assisted quality engineers in developing a data analytical software program in Excel to reduce time sorting through failure symptom data and filter necessary information </li> ",
   },
-  
+ {
+    title: "Mechanical Design Engineer Intern",
+    cardImage: "assets/images/experience-page/bosch-logo.png",
+    place: "Bosch Home Appliances",
+    time: "(Aug, 2021 - Jan, 2021)",
+    desp: "<li> Developed a Python script and GUI to interface with Home Connect API Simulators, enabling settings adjustments for refrigerators </li> <li> Designed parts for refrigerator assemblies and drafted new refrigerator assemblies in NX 12 and Teamcenter PDM </li><li>   Designed different parts using principles of plastic part design in NX 12 and used 3-D printing to rapidly prototype parts </li><li>  Assisted quality engineers in developing a data analytical software program in Excel to reduce time sorting through failure symptom data and filter necessary information </li> ",
+  }, 
   {
     title: "Undergradute Research | Additive Manufacturing",
     cardImage: "assets/images/experience-page/siemens.png",
