@@ -42,14 +42,14 @@ const exp = [
  
   {
     title: "Undergradute Research | Additive Manufacturing",
-    cardImage: "assets/images/experience-page/ten.png",
+    cardImage: "assets/images/experience-page/tenn.png",
     place: "University of Tennessee Knoxville ",
     time: "(May, 2024 - Aug 2024)",
     desp: "<li>Designed mechanical fixtures using sheet metal design in NX12 in order to implement a heating stage in a Modular Vacuum chamber.</li> <li>Developed, performed calculations, and implemented a component-level test bench to test for adhesive delamination in the droplet generator.</li> <li> Prototyped and created sheet metal and plastic parts to integrate different electrical modules into test chambers and improve reliability testing.</li><li> Managed 4 different projects while collaborating with mechanical design and reliability engineers, vendors, and manufacturing </li>",
   },
   {
     title: "Graduate Research | Robotics Lab",
-    cardImage: "assets/images/experience-page/ten.png",
+    cardImage: "assets/images/experience-page/tenn.png",
     place: "University of Tennessee Knoxville",
     time: "(May 2023 - Aug, 2023)",
     desp: "<li>Designed and prototyped a universal debug fixture for devices using CREO, incorporating pogo pins, PCBA, FPC flex cable, and springs</li> <li>  Created plastic and sheet metal parts to house electrical assemblies</li> <li> Collaborated with tooling/mold engineers and contract manufacturers to ensure proper molding of plastic parts and seamless UDF assembly</li><li>  Performed FEA contact analysis in CREO Simulate for removable snaps, optimizing cantilever length, lead in/out angle, and width of snaps </li><li> Conducted rapid 3-D prototyping to ensure feasibility, user-friendliness, and proper functionality of components </li> ",
