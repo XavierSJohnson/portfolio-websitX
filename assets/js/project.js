@@ -46,14 +46,6 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
-  {
-    title: "Poker Game",
-    cardImage: "assets/images/project-page/poker.jpg",
-    description: "Poker game built using typescript.",
-    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-    Previewlink: "",
-    Githublink: "",
-  },
   
 ];
 
