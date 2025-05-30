@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Omni Directional Treadmill",
-    cardImage: "assets/images/project-page/omni.png",
+    cardImage: "assets/images/project-page/omni.jpg",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
