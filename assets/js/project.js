@@ -50,7 +50,7 @@ const projects = [
   },
   {
     title: "Golf Machine",
-    cardImage: "assets/images/project-page/golf.jpg",
+    cardImage: "assets/images/project-page/golf.png",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "assets/images/project-page/golf.pdf",
