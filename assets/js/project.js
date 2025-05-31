@@ -53,7 +53,7 @@ const projects = [
     cardImage: "assets/images/project-page/poker.jpg",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-    Previewlink: "assets/images/project-page/quiz.jpg",
+    Previewlink: "assets/images/project-page/golf.pdf",
     Githublink: "assets/images/project-page/quiz.jpg",
   },
 
