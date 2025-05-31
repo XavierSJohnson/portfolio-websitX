@@ -86,14 +86,20 @@ const showCards = () => {
 document.addEventListener("DOMContentLoaded", showCards);
 
 function myFunction() {
-  var input, i, skillcard, card, title;
-  input = document.getElementById("myInput").value.toUpperCase();
+  // Declare variables
+  var input, button, i, skillcard, card, title;
+  input = document.getElementById("myInput").value;
+  input = input.toUpperCase();
   skillcard = document.getElementsByClassName("skill-card");
   card = document.getElementsByClassName("card");
   title = document.getElementsByClassName("title");
 
-  for (i = 0; i < title.length; i++) {
-    if (title[i].innerHTML.toUpperCase().includes(input)) {
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i < button.length; i++) {
+    if (
+      button[i].innerHTML.toUpperCase().includes(input) ||
+      title[i].innerHTML.toUpperCase().includes(input)
+    ) {
       skillcard[i].style.display = "";
       card[i].style.display = "";
     } else {
@@ -102,3 +108,20 @@ function myFunction() {
     }
   }
 }
+// function myFunction() {
+//   var input, i, skillcard, card, title;
+//   input = document.getElementById("myInput").value.toUpperCase();
+//   skillcard = document.getElementsByClassName("skill-card");
+//   card = document.getElementsByClassName("card");
+//   title = document.getElementsByClassName("title");
+
+//   for (i = 0; i < title.length; i++) {
+//     if (title[i].innerHTML.toUpperCase().includes(input)) {
+//       skillcard[i].style.display = "";
+//       card[i].style.display = "";
+//     } else {
+//       skillcard[i].style.display = "none";
+//       card[i].style.display = "none";
+//     }
+//   }
+// }
