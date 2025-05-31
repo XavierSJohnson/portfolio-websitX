@@ -49,7 +49,7 @@ const projects = [
     Githublink: "assets/images/project-page/quiz.jpg",
   },
   {
-    title: "Poker Game",
+    title: "Golf Machine",
     cardImage: "assets/images/project-page/poker.jpg",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
