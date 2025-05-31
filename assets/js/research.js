@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Batman Flow Simulation",
+    title: "Flow Simulation",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Treadmill Strutural + Buckling Analaysis",
+    title: "Strutural Analaysis",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Cantilevar Beam Analysis",
+    title: "Cantilevar Beam",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -30,7 +30,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Basic Thermal Analysis of PCB Enclosure",
+    title: " Thermal Analysis",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -47,7 +47,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "WHAT THE FUCK IS THIS",
+    title: "WHAT THE FUCK ",
     cardImage: "assets/images/project-page/poker.jpg",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
