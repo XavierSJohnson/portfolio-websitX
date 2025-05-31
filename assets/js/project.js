@@ -32,7 +32,7 @@ const projects = [
   },
  {
     title: "Red Light - Blue Light Smart Glasses",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/bosch.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "assets/images/project-page/quiz.jpg",
@@ -40,7 +40,7 @@ const projects = [
   },
   {
     title: "Omni Directional Treadmill",
-    cardImage: "assets/images/project-page/omni.jpg",
+    cardImage: "assets/images/project-page/bosch.jpg",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "assets/images/project-page/quiz.jpg",
@@ -48,7 +48,7 @@ const projects = [
   },
   {
     title: "Asthma Dectection device",
-    cardImage: "assets/images/project-page/asthma.png",
+    cardImage: "assets/images/project-page/bosch.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "assets/images/project-page/quiz.jpg",
