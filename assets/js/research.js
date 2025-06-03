@@ -15,7 +15,7 @@ const projects = [
   // },
   {
     title: "Strutural Analaysis",
-    cardImage: "assets/images/project-page/simmy.png",
+    cardImage: "assets/images/research-page/simmy.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "assets/images/project-page/structural.pdf",
@@ -48,7 +48,7 @@ const projects = [
   // },
   {
     title: "Drop Test ",
-    cardImage: "assets/images/project-page/droptest.mp4",
+    cardImage: "assets/images/research-page/droptest.mp4",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "assets/images/project-page/drop.pdf",
