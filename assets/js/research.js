@@ -22,12 +22,12 @@ const projects = [
     Githublink: "assets/images/research-page/simmy.png",
   },
   {
-    title: "Cantilevar Beam",
-    cardImage: "assets/images/project-page/flappybird.png",
+    title: "Cantilever Beam",
+    cardImage: "assets/images/research-page/CB.png",
     description: "Flappy bird game built using React.js",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
-    Previewlink: "assets/images/project-page/chess.jpg",
-    Githublink: "",
+    Previewlink: "assets/images/research-page/CB.pdf",
+    Githublink: "assets/images/research-page/CB.png",
   },
   // {
   //   title: " Thermal Analysis",
