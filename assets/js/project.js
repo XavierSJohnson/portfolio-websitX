@@ -43,7 +43,7 @@ const projects = [
   },
 
   {
-    title: "Home Connect GUI",
+    title: "BSH Intern Recap",
     cardImage: "assets/images/project-page/bosch.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -60,7 +60,7 @@ const projects = [
     Githublink: "assets/images/project-page/therapy.png",
   },
   {
-    title: "Golf Machine",
+    title: "Golf Swing Bot",
     cardImage: "assets/images/project-page/golff.jpg",
     description: "Poker game built using typescript.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
